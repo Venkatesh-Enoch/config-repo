@@ -2,4 +2,4 @@ server:
   port: 8081
 
 order:
-  discount: 100
+  discount: 70
